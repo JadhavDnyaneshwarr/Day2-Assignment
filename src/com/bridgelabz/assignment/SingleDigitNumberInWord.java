@@ -2,7 +2,7 @@ package com.bridgelabz.assignment;
 
 import java.util.Scanner;
 
-public class AssignmentQue1 {
+public class SingleDigitNumberInWord {
     public static void main(String[] args) {
         System.out.println("welcome to Day 2 assignment");
         Scanner scanner = new Scanner(System.in);

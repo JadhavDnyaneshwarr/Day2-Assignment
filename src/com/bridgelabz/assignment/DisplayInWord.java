@@ -2,7 +2,7 @@ package com.bridgelabz.assignment;
 
 import java.util.Scanner;
 
-public class AssignmentQue1_2 {
+public class DisplayInWord {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("enter the number(1,10,100,1000,100000,10000000 => ");

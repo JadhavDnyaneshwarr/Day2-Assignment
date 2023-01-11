@@ -2,7 +2,7 @@ package com.bridgelabz.assignment;
 
 import java.util.Scanner;
 
-public class AssignmentQue3_3 {
+public class PalindromeNumber {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("enter the number => ");

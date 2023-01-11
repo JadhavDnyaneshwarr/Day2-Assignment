@@ -2,15 +2,17 @@ package com.bridgelabz.assignment;
 
 import java.util.Scanner;
 
-public class AssignmentQue3_1 {
+public class SumOffNaturalNumberWithWhileNumber {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("enter the number => ");
         int num = scanner.nextInt();
         int sum = 0;
-        for (int i = 0; i<=num; i++){
+        int i = 0;
+        while (i <= num){
             sum += i;
+            i++;
         }
-        System.out.println(sum);
+        System.out.println("he sum of the numbers upto given number is " + sum);
     }
 }
